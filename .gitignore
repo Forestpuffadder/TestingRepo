@@ -1,2 +1,5 @@
 # ignore the large excel files
-
+*.mdf
+*.ldf
+*.db
+node_modules/
